@@ -11,7 +11,7 @@ const ProductDetail = () => {
 
   const getProductDetail = async()=>{
 
-    let url=`http://localhost:5000/products/${id}`;
+    let url=`https://my-json-server.typicode.com/kimyunong/react-shop2/products/${id}`;
     let response= await fetch(url);
     let data = await response.json();
 

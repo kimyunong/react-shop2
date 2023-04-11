@@ -13,7 +13,7 @@ const getProduct = async()=>{
 
   let searchQuery=search.get('q') || "";
 
-  let url = `http://localhost:5000/products/?q=${searchQuery}`;
+  let url = `https://my-json-server.typicode.com/kimyunong/react-shop2/products/?q=${searchQuery}`;
   let response = await fetch(url);
   let data = await response.json();
 
