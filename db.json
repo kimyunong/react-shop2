@@ -112,9 +112,9 @@
         },
         {
             "id":11,
-            "img":"https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff9%2Fe2%2Ff9e280481ffc0ec0d977977820e0ddfaa0bb49b8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
-            "title":"래글런 슬리브 탑",
-            "price":19900,
+            "img":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F49%2F63%2F49632f7e4262fdd859f32b91eecd4bd4118a5be3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "title":"크롭트 터틀넥 탑",
+            "price":14900,
             "choice":true,
             "new":true,
             "size":["XS","S","M","L","XL"]

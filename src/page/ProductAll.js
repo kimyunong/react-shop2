@@ -19,7 +19,7 @@ const getProduct = async()=>{
 
   setProductList(data);
 
-  console.log("데이터",data);
+  console.log("데이터",searchQuery);
 
 }
 

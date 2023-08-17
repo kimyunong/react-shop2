@@ -43,7 +43,7 @@ const Navigation = ({authenticate,setAuthenticate}) => {
 
     console.log("키워드",keyword);
 
-    navigate(`/?q=${keyword}`);
+    navigate(`/?q=${keyword}`);  // + url을 바꿔준다. 
 
   }
 
